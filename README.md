@@ -3,7 +3,7 @@ ECSE 6962 - Trustworthy Machine Learning Spring'22 Project - Differentially Priv
 
 
 Requirements:
-Beyond basic libraries (e.g., numpy, scipy), you should have networkx installed on python.
+Beyond basic libraries (e.g., numpy, scipy), you should have networkx installed.
 
 functions.py: contains the main algorithms, FCI and PrivFCI.
 
